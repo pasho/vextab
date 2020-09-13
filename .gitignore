@@ -1,6 +1,7 @@
 node_modules/*
 build/*
 Gemfile.lock
+dist
 
 *.lock
 ruby_sess.*
